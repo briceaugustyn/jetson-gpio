@@ -1,3 +1,18 @@
+reviewed requirement for Jetson Nano embedded system.
+goal develop an app displaing which beacon (PWA are present phyically in the cage)
+second part creat a log check in check out.
+
+Steps
+1 get a development kit with MCCI
+2 get a wifi Bluetooth adaptor
+3 create a simple proximity app (whatever is simple to program)
+4 create a simple dot net app to status cage 3 and cage 4 PWA
+
+(will just need help for 4 and for proof of concept find an LCD similar to building 15 and display PWA by cage if possible)
+
+end proof of concept
+
+
 # Jetson.GPIO - Linux for Tegra
 
 Jetson TX1, TX2, AGX Xavier, and Nano development boards contain a 40 pin GPIO
